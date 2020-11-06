@@ -1,0 +1,10 @@
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\bin\Debug\ThreeStarFabrics.exe.config
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\bin\Debug\ThreeStarFabrics.exe
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\bin\Debug\ThreeStarFabrics.pdb
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\obj\Debug\ThreeStarFabrics.csprojResolveAssemblyReference.cache
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\obj\Debug\ThreeStarFabrics.Form1.resources
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\obj\Debug\ThreeStarFabrics.Properties.Resources.resources
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\obj\Debug\ThreeStarFabrics.csproj.GenerateResource.Cache
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\obj\Debug\ThreeStarFabrics.exe
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\obj\Debug\ThreeStarFabrics.pdb
+D:\Software\ThreeStarFabrics\ThreeStarFabrics\obj\Debug\ThreeStarFabrics.AddAccount.resources
